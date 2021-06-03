@@ -7,4 +7,5 @@ network:
       gateway4: 172.18.68.113
       nameservers: 
        addresses: [172.18.68.113,8.8.8.8]
+       search: []
   version: 2

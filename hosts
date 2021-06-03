@@ -1,5 +1,5 @@
 127.0.0.1 localhost
-127.0.1.1 dc1
+172.18.68.114 dc1.l00155877.lyit dc1
 
 # new line test - adding more to test under admin user not root
 # The following lines are desirable for IPv6 capable hosts
